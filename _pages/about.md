@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student in Institute of Automation, Chinese Academy of Sciences.
+I am an associate researcher in Institute of Automation, Chinese Academy of Sciences.
 
 [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
 
