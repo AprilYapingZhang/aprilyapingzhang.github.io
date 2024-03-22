@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an associate researcher in Institute of Automation, Chinese Academy of Sciences.
+I am an associate researcher in Institute of Automation, Chinese Academy of Sciences (CASIA).
 
 [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
 
@@ -17,11 +17,17 @@ I am an associate researcher in Institute of Automation, Chinese Academy of Scie
 
 [Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
 
+Working Experience
+======
+
+* Associate Researcher, CASIA, 2023 - Present 
+* Assistant Researcher, CASIA, 2020 - 2023
+
 Education
 ======
 
-* 2015.09 - 2020.06 : Ph. D, University of Chinese Academy of Sciences
-* 2011.09 - 2015.07: Bachelor, Honor Program of Information Science,  China Agricultural University
+* Ph.D, University of Chinese Academy of Sciences, 2015.09 - 2020.06
+* Bachelor, China Agricultural University, 2011.09 - 2015.07
 
 Research Interests:
 ======
@@ -33,24 +39,24 @@ Research Interests:
 * Natural Language Processing
 * Machine Translation
 
-# [Publications](https://ericongma.github.io/publications/)
+# [Publications](https://aprilyapingzhang.github.io/publications/)
 
 - 16 Papers have been published.
- - including IEEE TIP, IEEE/ACM TASLP, CVPR, EMNLP, COLING, NAACL, ICASSP, ICDAR, ICPR, CCMT etc.
+ - including IEEE TIP, IEEE/ACM TASLP, CVPR, EMNLP, COLING, NAACL, ICASSP, ICDAR, etc.
 - 6 Patents are Granted.
 
 
-
+# [Awards]
+-  ICASSP 2018 Best Student Paper Award.
+-  CCMT 2023 Best Paper Award.
 
 
 ---
-
-
-
 Academic Activities
 ======
-## Conference Program Committee Member
+## Program Committee/Reviewing:
+- AAAI, ICME, ICASSP, ICDAR
+- ACL, EMNLP, NAACL, ACL, CCL
+- CVMJ, TALLIP
 
-1. Reviewer: AAAI ACL NACCAL Committee Member
-2.  
 

@@ -15,7 +15,7 @@ Education
 ======
 
 * 2015.09 - 2020.06 : Ph. D, University of Chinese Academy of Sciences
-* 2011.09 - 2015.07: Bachelor, Honor Program of Information Science,  China Agricultural University
+* 2011.09 - 2015.07: Bachelor,  China Agricultural University
 
 Research Interests:
 ======
@@ -27,7 +27,7 @@ Research Interests:
 * Natural Language Processing
 * Machine Translation
 
-# [Publications]()
+# [Publications](https://aprilyapingzhang.github.io/publications/)
 
 - 16 Papers have been published.
 - including IEEE TIP, IEEE/ACM TASLP, CVPR, EMNLP, COLING, NAACL, ICASSP, ICDAR, ICPR, CCMT etc.
@@ -52,10 +52,11 @@ Academic Activities
 ======
 <!--
 ## Conference Program Committee Member
-
-
 -->
----
+## Program Committee/Reviewing:
+- AAAI, ICME, ICASSP, ICDAR
+- ACL, EMNLP, NAACL, ACL, CCL
+- CVMJ, TALLIP
 
 ## Recent Contribution to Open Resource Project
 <!--
