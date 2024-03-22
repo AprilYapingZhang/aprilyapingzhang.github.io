@@ -46,13 +46,13 @@ Research Interests:
 - 6 Patents are Granted.
 
 
-# [Awards]
+# Awards
 -  ICASSP 2018 Best Student Paper Award.
 -  CCMT 2023 Best Paper Award.
 
 
 ---
-Academic Activities
+# Academic Activities
 ======
 ## Program Committee/Reviewing:
 - AAAI, ICME, ICASSP, ICDAR

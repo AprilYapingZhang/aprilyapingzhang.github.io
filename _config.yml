@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yaping Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Yaping Zhang"
-description              : &description "I'm a PhD. Student in Institute of Automation, Chinese Academy of Sciences."
+description              : &description "I'm an associate researcher in Institute of Automation, Chinese Academy of Sciences."
 url                      : https://aprilyapingzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aprilyapingzhang.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yaping Zhang"
-  avatar           : "yapingzhang.jpg"
+  avatar           : "yapingzhang1.jpg"
   bio              : "I'm an associate researcher in Institute of Automation, Chinese Academy of Sciences."
   location         : "Beijing, China."
   employer         :
