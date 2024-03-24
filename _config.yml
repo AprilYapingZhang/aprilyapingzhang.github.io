@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Yaping Zhang"
-  avatar           : "yapingzhang.jpg"
-  bio              : "I'm an associate researcher in Institute of Automation, Chinese Academy of Sciences."
+  avatar           : "yapingzhang1.jpg"
+  bio              : "Associate Researcher in CASIA."
   location         : "Beijing, China."
   employer         :
   pubmed           : 
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "AprilYapingZhang"
-  semanticscholors : https://www.semanticscholar.org/author/Cong-Ma/143731040
+  semanticscholors : 
   google_plus      :
   keybase          :
   instagram        :
