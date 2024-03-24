@@ -24,16 +24,19 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 
 ======
 
-1. **<u> Yaping Zhang</u>**,  **<u>Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling</u>**. IEEE trans. on Image Processing. 2021 (CCF A)
-2. **<u> Yaping Zhang</u>**,  **<u>Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling</u>**. CIEEE trans. on Image Processing. (CCF A)
-3. Yupu Liang,**<u> Yaping Zhang</u>**, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. **<u>Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling</u>**. In The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico. June 16-21, 2024.
-4. 
+1. **<u> Yaping Zhang</u>**, Shuai Nie, Wenju Liu, Xing Xu, Dongxiang Zhang, Heng Tao Shen. **<u>Sequence-to-sequence domain adaptation network for robust text image recognition</u>**. Proceedings of the IEEE/CVF conference on CVPR. 2019. (CCF A)
 
-5. Cong Ma, **<u>Yaping Zhang</u>**, Zhiyang Zhang, Yupu Liang, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation</u>**. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). Torino, Italia. May 20-25, 2024.
+2. **<u> Yaping Zhang</u>**, Shuai Nie, Shan Liang, Wenju Liu. **<u>Robust text image recognition via adversarial sequence-to-sequence domain adaptation</u>**. IEEE trans. on Image Processing. 2021. (CCF A)
 
-6. Cong Ma, Xu Han, Linghui Wu, **<u>Yaping Zhang</u>**, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal Contrastive Learning based End-to-End Text Image Machine Translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [IEEEXplore Early Access](https://ieeexplore.ieee.org/document/10284997/).
+3. Yupu Liang,**<u> Yaping Zhang</u>**, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. **<u>Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling</u>**. In The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico. June 16-21, 2024.  (CCF B)
 
-7. Cong Ma, **<u>Yaping Zhang</u>**, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>CCIM: Cross-Modal Cross-Lingual Interactive Image Translation</u>**. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Singapore. December 6-10, 2023. pp. 4959–4965. [ACL_Anthology_version.](https://aclanthology.org/2023.findings-emnlp.330/)
+4. Cong Ma, **<u>Yaping Zhang</u>**, Zhiyang Zhang, Yupu Liang, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation</u>**. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). Torino, Italia. May 20-25, 2024. (CCF B)
+
+6. Zhiyang Zhang, **<u>Yaping Zhang</u>**, Yupu Liang, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder</u>**. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Singapore. December 6-10, 2023. pp. 4959–4965. [ACL_Anthology_version.](https://aclanthology.org/2023.findings-emnlp.330/) (CCF B)
+
+7. Cong Ma, Xu Han, Linghui Wu, **<u>Yaping Zhang</u>**, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal Contrastive Learning based End-to-End Text Image Machine Translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [IEEEXplore Early Access](https://ieeexplore.ieee.org/document/10284997/). (CCF B)
+
+8. Cong Ma, **<u>Yaping Zhang</u>**, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>CCIM: Cross-Modal Cross-Lingual Interactive Image Translation</u>**. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Singapore. December 6-10, 2023. pp. 4959–4965. [ACL_Anthology_version.](https://aclanthology.org/2023.findings-emnlp.330/) (CCF B)
 
  [More papers]((https://aprilyapingzhang.github.io/publications/))
 
