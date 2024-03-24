@@ -9,13 +9,8 @@ redirect_from:
 ---
 
 
-I am an associate researcher in Institute of Automation, Chinese Academy of Sciences (CASIA).
+I am an associate researcher at State Key Laboratory of Multimodal Artificial Intelligence Systems(MAIS),  Institute of Automation, Chinese Academy of Sciences (CASIA).
 
-[Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm)
-
-[National Laboratory of Pattern Recognition](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml)
-
-[Insititute of Automation Chinese Academy of Sciences](http://www.ia.cas.cn/)
 
 Working Experience
 ======
@@ -32,7 +27,7 @@ Education
 Research Interests:
 ======
 
-* Multimodal Representation Learning
+* Multimodal Learning
 * Domain Adaptation
 * Sequence Generation
 * Document Analysis
@@ -50,6 +45,9 @@ Research Interests:
 -  ICASSP 2018 Best Student Paper Award.
 -  CCMT 2023 Best Paper Award.
 
+# Awards
+-  ICASSP 2018 Best Student Paper Award.
+-  CCMT 2023 Best Paper Award.
 
 ---
 # Academic Activities
@@ -59,4 +57,5 @@ Research Interests:
 - ACL, EMNLP, NAACL, ACL, CCL
 - CVMJ, TALLIP
 
+## Committee Member
 

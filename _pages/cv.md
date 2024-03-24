@@ -20,7 +20,7 @@ Education
 Research Interests:
 ======
 
-* Multimodal Representation Learning
+* Multimodal Learning
 * Domain Adaptation
 * Sequence Generation
 * Document Analysis
