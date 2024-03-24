@@ -13,7 +13,9 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 
 ---
 # News
+
 ======
+
 - One paper is accepted by NACCAL 2024 
 - One paper is accepted by COLING 2024 
 - One paper is accepted by ICASSP 2024 
@@ -22,7 +24,9 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 
 ---
 # Selected Publications
+
 ======
+
 1. Yupu Liang,**<u> Yaping Zhang</u>**, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. **<u>Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling</u>**. In The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico. June 16-21, 2024.
 
 2. Cong Ma, **<u>Yaping Zhang</u>**, Zhiyang Zhang, Yupu Liang, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation</u>**. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). Torino, Italia. May 20-25, 2024.
@@ -41,26 +45,39 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 
  [More papers]((https://aprilyapingzhang.github.io/publications/))
 
+---
 # Projects
+
 ======
+
 1. 国家自然科学基金委员会, 重点项目, 62336008, 大规模多语种多模态神经机器翻译关键技术研究, 2024-01-01 至 2028-12-31, 233万元, 在研, 参与  
+
 2. 国家自然科学基金委员会, 青年科学基金项目, 62106265, 融合视觉与文本信息的图像文本机器翻译方法研究, 2022-01-01 至 2024-12-31, 30万元, 在研, 主持 
+
 
 ---
 # Awards
+
 ======
+
 2023, Best Paper for the 19th China Conference on Machine Translation, CCMT2023
 <!-- 第十九届全国机器翻译大会最佳论文奖 -->
+
 2018, Best Student Paper for 2018 International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 
 <!-- 2018 ICASSP 最佳学生论文奖 -->
 
 ---
 # Academic Activities
+
 ======
+
 Committee Member, Chinese Society of Image and Graphics, Technical Committee on Document Image Analysis and Recognition（2023-） 
 <!-- 中国图象图形学学会文档图像分析与识别专委会委员 -->
+
 Committee Member, Chinese Society of Image and Graphics, Big Vision Data Committee（2023-） 
 <!-- 中国图象图形学学会视觉大数据专委会委员 -->
+
 Committee Member, Chinese Information Processing Society of China, Youth Working Committee（2021-） 
 <!-- 中国中文信息学会青年工作委员会 -->
+
 Reviewers for AAAI, ACL, EMNLP, NACCAL, ICME, ICASSP, CVMJ, TALLIP, etc
