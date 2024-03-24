@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an associate researcher at State Key Laboratory of Multimodal Artificial Intelligence Systems(MAIS),  Institute of Automation, Chinese Academy of Sciences (CASIA). I received the Ph.D degree from CASIA in 2020. My research primarily centers on multimodal learning, document analysis and natural panguage processing. Recently, we aim to establish a new pathway toward document image translation with complex layout.
+I am an associate researcher at State Key Laboratory of Multimodal Artificial Intelligence Systems(MAIS),  Institute of Automation, Chinese Academy of Sciences (CASIA). I received the Ph.D degree from CASIA in 2020. My research primarily centers on multimodal learning, document analysis and natural language processing. Recently, we aim to establish a new pathway toward document image translation with complex layout.
 
 ---
 # News
