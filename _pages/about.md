@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Yaping Zhang (张亚萍)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
