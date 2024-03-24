@@ -22,8 +22,6 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 ---
 # Selected Publications
 
-======
-
 1. **<u> Yaping Zhang</u>**, Shuai Nie, Wenju Liu, Xing Xu, Dongxiang Zhang, Heng Tao Shen. **<u>Sequence-to-sequence domain adaptation network for robust text image recognition</u>**. Proceedings of the IEEE/CVF conference on CVPR. 2019. (CCF A)
 
 2. **<u> Yaping Zhang</u>**, Shuai Nie, Shan Liang, Wenju Liu. **<u>Robust text image recognition via adversarial sequence-to-sequence domain adaptation</u>**. IEEE trans. on Image Processing. 2021. (CCF A)
@@ -61,13 +59,13 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 ---
 # Academic Activities
 
-- Committee Member, Chinese Society of Image and Graphics, Technical Committee on Document Image Analysis and Recognition（2023-） 
+- Committee Member, Chinese Society of Image and Graphics, Document Image Analysis and Recognition（2023-） 
 <!-- 中国图象图形学学会文档图像分析与识别专委会委员 -->
 
 - Committee Member, Chinese Society of Image and Graphics, Big Vision Data Committee（2023-） 
 <!-- 中国图象图形学学会视觉大数据专委会委员 -->
 
-- Committee Member, Chinese Information Processing Society of China, Youth Working Committee（2021-） 
+- Committee Member, Chinese Information Processing Society of China, Youth Working Committee（2023-） 
 <!-- 中国中文信息学会青年工作委员会 -->
 
 - Reviewers for AAAI, ACL, EMNLP, NACCAL, ICME, ICASSP, CVMJ, TALLIP, etc
