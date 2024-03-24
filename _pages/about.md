@@ -36,7 +36,7 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 
 8. Cong Ma, **<u>Yaping Zhang</u>**, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. **<u>CCIM: Cross-Modal Cross-Lingual Interactive Image Translation</u>**. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Singapore. December 6-10, 2023. pp. 4959–4965. [ACL_Anthology_version.](https://aclanthology.org/2023.findings-emnlp.330/) (CCF B)
 
- [More papers]((https://aprilyapingzhang.github.io/publications/))
+ [More papers](https://aprilyapingzhang.github.io/publications/)
 
 ---
 # Projects
