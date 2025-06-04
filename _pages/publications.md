@@ -26,9 +26,9 @@ author_profile: true
 
 - Jing Ye, Lu Xiang, **<u>Yaping Zhang</u>**, Chengqing Zong. **<u>SweetieChat: A Strategy-Enhanced Role-playing Framework for Diverse Scenarios Handling Emotional Support Agent</u>**. Proceedings of the 31st International Conference on Computational Linguistics(COLING-2025). Abu Dhabi, UAE. pages 4646–4669.
 
--Zhiyang Zhang, **<u>Yaping Zhang, Yupu Liang, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong</u>**. **<u>From Chaotic OCR Words to Coherent Document: A Fine-to-Coarse Zoom-Out Network for Complex-Layout Document Image Translation</u>**. Proceedings of the 31st International Conference on Computational Linguistics(COLING-2025). Abu Dhabi, UAE. pages 10877–10890.
+- Zhiyang Zhang, **<u>Yaping Zhang, Yupu Liang, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong</u>**. **<u>From Chaotic OCR Words to Coherent Document: A Fine-to-Coarse Zoom-Out Network for Complex-Layout Document Image Translation</u>**. Proceedings of the 31st International Conference on Computational Linguistics(COLING-2025). Abu Dhabi, UAE. pages 10877–10890.
 
--Cong Ma, Xu Han, Linghui Wu, **<u>Yaping Zhang</u>**, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal Contrastive Learning based End-to-End Text Image Machine Translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP), vol. 32, pp. 2153-2165, 2024, https://doi.org/10.1109/TASLP.2023.3324540
+- Cong Ma, Xu Han, Linghui Wu, **<u>Yaping Zhang</u>**, Yang Zhao, Yu Zhou, and Chengqing Zong. **<u>Modal Contrastive Learning based End-to-End Text Image Machine Translation</u>**. IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP), vol. 32, pp. 2153-2165, 2024, https://doi.org/10.1109/TASLP.2023.3324540
 
 
 
