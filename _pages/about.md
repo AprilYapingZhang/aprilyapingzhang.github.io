@@ -13,9 +13,9 @@ I am an associate researcher at State Key Laboratory of Multimodal Artificial In
 
 ---
 # News
-- We are organizing the [ICDAR 2025 Competition on End-to-End Document Image Machine Translation](https://cip-documentai.github.io/).
-- One paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A) 2025 
-- One paper is accepted by IEEE transaction on Multimedia (TMM, CCF A) 2025 
+- We are organizing the [ICDAR 2025 Competition on End-to-End DIMT](https://cip-documentai.github.io/).
+- One paper is accepted by IEEE Transactions on PAMI (TPAMI, CCF A) 2025 
+- One paper is accepted by IEEE transaction on Multimedia (TMM, CCF B) 2025 
 - Three papers are accepted by ACL 2025 (CCF A) 
 - Two papers are accepted by COLING 2025 (CCF B)
 
